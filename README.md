@@ -74,6 +74,7 @@ continuously learning, solo leveling
 
 ### <img src="https://raw.githubusercontent.com/Yash-Bankar/Yash-Bankar/master/resources/stats.png" width="35px" /> Some stats
 
+[![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash-Bankar)](https://github.com/Yash-Bankar/github-readme-stats)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
