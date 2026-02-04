@@ -23,7 +23,7 @@ continuously learning, solo leveling
 ### <img src="https://raw.githubusercontent.com/Yash-Bankar/Yash-Bankar/master/resources/Confused_Dog.gif" height="50px" /> I’m currently learning ...
 - <img src="https://raw.githubusercontent.com/Yash-Bankar/Yash-Bankar/master/resources/gesture.jpeg" width="30px" /> Complex animations and Gesture Handling on React-Native
 - <img src="https://raw.githubusercontent.com/Yash-Bankar/Yash-Bankar/master/resources/cf.png" height="30px" /> Data Structure and Algorithms
-- <img src="https://raw.githubusercontent.com/Yash-Bankar/Yash-Bankar/master/resources/functional.png" height="30px" /> Gen AI
+- <img src="https://raw.githubusercontent.com/Yash-Bankar/Yash-Bankar/master/resources/genai.jpeg" height="30px" /> Gen AI
 - <img src="https://raw.githubusercontent.com/Yash-Bankar/Yash-Bankar/master/resources/ml.png" height="35px" /> ML
 ### <img src="https://raw.githubusercontent.com/Yash-Bankar/Yash-Bankar/master/resources/pug_dance.gif" width="60px" /> I’m looking to collaborate on ...
 - <img src="https://raw.githubusercontent.com/Yash-Bankar/Yash-Bankar/master/resources/open_source.png" height="30px" /> any open source project
