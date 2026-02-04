@@ -2,7 +2,7 @@
 
 <p align="center" >
   <samp>
-    My name is <em>Yash</em>. I am a Fullstack ... 
+   hii!! My name is <em>Yash</em>. I am a Fullstack ... 
   <br/> ReactJs lover. React Native addict. 
     <br/> Fulltime student at IIT(BHU) VARANASI.
       <br/>
