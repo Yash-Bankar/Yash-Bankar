@@ -78,7 +78,7 @@ continuously learning, solo leveling
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-
+<!--
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Yash-Bankar&theme=tokyonight&show_icons=true" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Bankar&theme=tokyonight&show_icons=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Bankar&theme=tokyonight&show_icons=true" /> -->
