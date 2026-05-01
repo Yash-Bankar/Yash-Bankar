@@ -19,7 +19,7 @@ continuously learning, solo leveling
 
 ### <img src="https://raw.githubusercontent.com/Yash-Bankar/Yash-Bankar/master/resources/PusheenCompute.gif" width="70px" /> I’m currently working on ...
 - <img src="https://raw.githubusercontent.com/Yash-Bankar/Yash-Bankar/master/resources/3243_take_my_money.png" height="40px" />  shh...🤫🤫
-- <img src="https://raw.githubusercontent.com/Yash-Bankar/Yash-Bankar/master/resources/controller.png" width="30px" />  os developed with some friends
+- <img src="https://raw.githubusercontent.com/Yash-Bankar/Yash-Bankar/master/resources/controller.png" width="30px" />  developed cool things with some friends
 ### <img src="https://raw.githubusercontent.com/Yash-Bankar/Yash-Bankar/master/resources/Confused_Dog.gif" height="50px" /> I’m currently learning ...
 - <img src="https://raw.githubusercontent.com/Yash-Bankar/Yash-Bankar/master/resources/gesture.jpeg" width="30px" /> Complex animations and Gesture Handling on React-Native
 - <img src="https://raw.githubusercontent.com/Yash-Bankar/Yash-Bankar/master/resources/cf.png" height="30px" /> Data Structure and Algorithms
