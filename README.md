@@ -1,8 +1,8 @@
 ## <img src="https://raw.githubusercontent.com/Yash-Bankar/Yash-Bankar/master/resources/welcomeglitch.gif" width="50px" /> Hello!
 
-<p align="center" >
+<!-- <p align="center" >
   <samp>
-   hii!! My name is <em>Yash</em>. I am a Fullstack ... 
+   hii!! My name is <em>Yash</em>. I am a Fullstack Dev ... 
   <br/> ReactJs lover. React Native addict. 
     <br/> Fulltime student at IIT(BHU) VARANASI.
       <br/>
@@ -13,7 +13,21 @@ continuously learning, solo leveling
   <br/>
   <br/>
   <br/>
-</p>
+</p> -->
+
+<table align="center">
+  <tr>
+    <td>🔴 🟡 🟢&nbsp;&nbsp;<code>yash@iitbhu:~$</code></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=800&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&repeat=false&width=850&height=180&lines=hii!!+My+name+is+Yash.+I+am+a+Fullstack+Dev+...%3BReactJs+lover.+React+Native+addict.%3BFulltime+student+at+IIT(BHU)+VARANASI.%3BCreating+stuffs+for+fun%2C+composing+shoots%2C%3Bcontinuously+learning%2C+solo+leveling"
+        alt="Typing Animation"
+      />
+    </td>
+  </tr>
+</table>
 
 <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%"/>
 
