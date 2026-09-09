@@ -84,6 +84,10 @@ continuously learning, solo leveling
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Bankar&theme=tokyonight&show_icons=true" /> -->
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yash-Bankar&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yash-Bankar/Yash-Bankar/output/github-contribution-grid-snake-dark.svg">
