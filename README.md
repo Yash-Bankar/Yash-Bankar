@@ -89,12 +89,7 @@ continuously learning, solo leveling
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Yash-Bankar&theme=tokyonight&show_icons=true" />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Bankar&theme=tokyonight&show_icons=true" /> -->
-
-### <img src="https://raw.githubusercontent.com/Yash-Bankar/Yash-Bankar/master/resources/cat-vibe-vibe-cat.gif" width="40px" /> Profile Views
-<p align="center">
-  <!-- Standard flat-square badge -->
-  <img src="https://komarev.com/ghpvc/?username=Yash-Bankar&label=VIEWS&color=8A2BE2&style=flat-square" alt="Profile Views" />
-</p>
+### <img src="https://raw.githubusercontent.com/Yash-Bankar/Yash-Bankar/master/resources/cat-vibe-vibe-cat.gif" width="40px" align="center" /> Profile Views: <img src="https://count.getloli.com/get/@Yash-Bankar?theme=rule34" align="center" height="70px" />
 
 <div align="center">
   <picture>
