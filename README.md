@@ -71,6 +71,11 @@ continuously learning, solo leveling
              <img src="https://raw.githubusercontent.com/Yash-Bankar/Yash-Bankar/master/resources/dev/xcode.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
              
 </p>
+
+<h2 align="center">🧑‍💻 Skills & Expertise</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=matlab,python,js,nodejs,postgres,figma,photoshop,git" />
+</div>
 <!--
 ### <img src="https://raw.githubusercontent.com/Yash-Bankar/Yash-Bankar/master/resources/stats.png" width="35px" /> Some stats -->
 <!--
