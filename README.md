@@ -53,7 +53,7 @@ continuously learning, solo leveling
 </p>
 
 ### <img src="https://raw.githubusercontent.com/Yash-Bankar/Yash-Bankar/master/resources/pickaxe.png" width="40px" /> Tools and Frameworks
-<!-- <p align="center">
+ <!-- <p align="center">
     <!-- <img src="https://raw.githubusercontent.com/Yash-Bankar/Yash-Bankar/master/resources/dev/bash.svg" height="35px" style="vertical-align:top margin:6px 4px" />
      <img src="https://raw.githubusercontent.com/Yash-Bankar/Yash-Bankar/master/resources/dev/csharp.svg" height="35px" style="vertical-align:top margin:6px 4px" /> -->
       <img src="https://raw.githubusercontent.com/Yash-Bankar/Yash-Bankar/master/resources/dev/css3.svg" height="35px" style="vertical-align:top margin:6px 4px" />
@@ -69,8 +69,7 @@ continuously learning, solo leveling
              <!-- <img src="https://raw.githubusercontent.com/Yash-Bankar/Yash-Bankar/master/resources/dev/unity.svg" height="35px" style="vertical-align:top margin:6px 4px"/> -->
              <img src="https://raw.githubusercontent.com/Yash-Bankar/Yash-Bankar/master/resources/dev/visualstudio_code.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
              <img src="https://raw.githubusercontent.com/Yash-Bankar/Yash-Bankar/master/resources/dev/xcode.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
-             
-</p> -->
+             </p> -->
 
 <!-- <h2 align="center">🧑‍💻 Skills & Expertise</h2> -->
 <div align="center">
